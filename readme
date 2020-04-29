@@ -1,0 +1,61 @@
+Example 1 :
+
+Please see the example of function.php file  that I have written for OXO tower during working at Harvey Nichols 
+File location : Wordpress /function.php 
+
+Website : https://www.harveynichols.com/restaurant/the-oxo-tower/
+
+As a fullstack developer I have implemented the full site , backend and frontend 
+Their existing site url : https://www.oxotower.co.uk/
+
+--------------------------------------------------------------------------------------------------------------
+
+Example 2 :
+
+Samsung Techwin :Example of category page 
+
+Again I was working as a lead developer and workied of 80% of this site implementation (frontend and backend )
+https://www.hanwha-security.eu/
+
+--------------------------------------------------------------------------------------------------------------
+
+Example 3: 
+
+During working at moneyfarm I have implemented calculations for pension calculator  using anugar 8 and Transact-SQL in wordpress cms . I have also worked on custom gutenberg block implementation using javascript and php.
+
+File location : Wordpress /Anguler8+worspress 
+https://www.moneyfarm.com/uk/pension-drawdown/
+
+--------------------------------------------------------------------------------------------------------------
+
+Example 4 :
+I have implemented quiz for boots  during working at bookmark content 
+File location : Wordpress /boots-quiz-implementation
+--------------------------------------------------------------------------------------------------------------
+
+Example 5 : 
+
+During working at chambers & partners I have implemented elementor  custom block creation for testimonial block  plus I  have working on article and GC lists. 
+File location : Wordpress /chambers&partners
+https://chambers.com/
+--------------------------------------------------------------------------------------------------------------
+
+Example 6 2015: 
+
+CPT Video listing  Custom plugin plugin create a custom post type called: Videos plug have these fields for admin: Title, Subtitle, Description, Video ID, and Type (options are Youtube, Vimeo and Dailymotion - dropdown or radio buttons)
+CPT should not have its single page for readers and should not be in menu navs for Authors
+Create a shortcode that will display a video CPT with the following attributes:
+[prefix_video id="POST ID" border_color="#3498db"]
+Plugin create Create shortcode generator - TinyMCE button that generates a popup with following fields: post id, border width and border color with color picker option
+--------------------------------------------------------------------------------------------------------------
+
+Example 7 : Simple online contact management application
+
+--------------------------------------------------------------------------------------------------------------
+
+Example 8 : Football ticket management fully custom sie build  premier league ticket management : Laravel framework 4.2  plus magento for ecommerce . Only  controller sent 
+
+
+Example 9 : During working at PEI media I have fully implemented NPS plugin the extension of delighted plugin  
+
+File location : Wordpress /plugin-peimedia
