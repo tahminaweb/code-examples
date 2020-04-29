@@ -1,0 +1,11 @@
+.input-range {
+    width: 50px !important;
+    float: left;
+    margin: 5px;
+}
+
+.input-location {
+    width: 150px !important;
+    float: left;
+    margin: 5px;
+}

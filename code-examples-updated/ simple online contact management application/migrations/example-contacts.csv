@@ -1,0 +1,7 @@
+"name","email","mobile","work_phone","address","www","category"
+"CSV 1","csv1@google.com","009","8009","London,
+
+United Kingdom
+","http://eggfree.bonddemo.com/deploy.php","Friend"
+"CSV 2","csv2@gmail.com","00980","9009","London, United Kingdon",NULL,"Family"
+"CSV 3","csv3@gmail.com","900989","7008","Birmingham, United Kingdom",NULL,"Colleague"
